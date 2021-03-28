@@ -1,4 +1,4 @@
-##React Router
+React Router
 
 React Router es una libería para gestionar rutas en aplicaciones que
 utilicen ReactJS. Está inspirada en el sistema de enrutado de Ember.js
