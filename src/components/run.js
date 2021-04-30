@@ -3,16 +3,16 @@ const run = () => {
     ("select_test") .value;
 
     switch (select) {
-        case "op_1":
+        case "num-lista":
             // Codigo para este caso...
             break;
-        case "op2":
+        case "idx-academico":
             // Codigo para este caso...
             break;
-        case "op3":
+        case "idx-tecnico":
             // Codigo para este caso...
             break;
-        case "op4":
+        case "idx-general":
             // Codigo para este caso...
              break;
 
