@@ -53,15 +53,22 @@ export default function SearchBar({ handleUrl }) {
                     </div>
                     <div className="col-2">
                         <button className="btn btn-outline-success " type="submit">Buscar</button>
-                        <script src="run.js"></script>
-                    </div>
+                        <script src="run.js"></script>   
+    </div>
                     <div id="dropdown">
+
+                        <main>
                         <select id="filter">
+                            <select name= "select_test"
+                            id="select_test">
 		                 <option value="num-lista">Número de la Lista (Default)</option>
 		                 <option value="idx-academico">Índice Académico</option>
 		                 <option value="idx-tecnico">Índice Técnico</option>
 		                 <option value="idx-general">Índice General</option>
                     </select>
+                    </select>
+                    
+                    </main>
                     </div>
                 </div>
             </form>
