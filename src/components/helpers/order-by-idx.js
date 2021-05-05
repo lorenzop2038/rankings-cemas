@@ -17,6 +17,7 @@ export default function orderByIdx(ranking) {
     
         switch (select) {
             case "num-lista":
+                z
                 break;
             case "idx-academico":
                 // Codigo para este caso...
