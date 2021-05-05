@@ -201,7 +201,7 @@ export default function ListaBoletines({ url }) {
 ## Colaboradores de este proyecto
 
 - [Adonys Santos (Product Owner + Developer)](https://github.com/adonyssantos)
-- [ ()]()
-- [ (Lorenzo Angel Perez Peña + Developer)](https://github.com/lorenzop2038/rankings-cemas)
+- [Miguel Rivas (Developer)](https://github.com/miguel908133rg)
+- [Lorenzo Angel Perez Peña (Developer)](https://github.com/lorenzop2038/rankings-cemas)
 - [ ()]()
 
