@@ -1,4 +1,4 @@
-# **Ranking Cemas**
+1# **Ranking Cemas**
 
 ## Introducción.
 
@@ -202,6 +202,6 @@ export default function ListaBoletines({ url }) {
 
 - [Adonys Santos (Product Owner + Developer)](https://github.com/adonyssantos)
 - [ ()]()
-- [ ()]()
+- [ (Lorenzo Angel Perez Peña + Developer)](https://github.com/lorenzop2038/rankings-cemas)
 - [ ()]()
 
